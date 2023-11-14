@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Epic Web & Mobile App Developer
+## Epic Web & Game Developer
 
 -@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
@@ -23,11 +23,13 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | Firebase
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
-#### Mobile Application Development
-- React Native
-- Flutter/Dart
-- Android, iOS, iPad
-- SQLite, Google Firebase
+#### Game Development
+- Unity
+- Web based game using MERN
+- Pixi.js
+- Phaser
+- Cocos2d
+- Web3.js
 
 ### Skills and Tools:
 
