@@ -19,7 +19,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 #### Website Development
 - <b>Front-end</b> : Javascript | Typescript | React.js | Next.js | Gatsby.js | Remix.js | Redux | TailwindCSS | Bootstrap
-- <b>Back-end</b> : Node.js | Express.js | Nest.js | PHP | Laravel | Symfony | CodeIgniter
+- <b>Back-end</b> : Node.js | Express.js | Nest.js | Laravel | Symfony | CodeIgniter
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | Firebase
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
