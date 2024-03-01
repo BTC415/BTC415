@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Epic Web & Game Developer
+## Epic Web & Blockchain Developer
 
 -@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
@@ -23,13 +23,11 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | Firebase
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
-#### Game Development
-- Unity
-- Web based game using MERN
-- Pixi.js
-- Phaser
-- Cocos2d
-- Web3.js
+#### Blockchain Development
+- Defi
+- Dex
+- NFT
+- Swap
 
 ### Skills and Tools:
 
