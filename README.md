@@ -24,10 +24,14 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
 #### Blockchain Development
-- Defi
-- Dex
-- NFT
-- Swap
+👍 Cryptocurrency Wallets
+👍 Non-Custodial Wallets
+👍 NFT Minting Engines
+👍 Smart Contracts
+👍 NFT Websites
+👍 DeFi Solutions
+👍 dApp Development
+👍 NFT Marketplace Management
 
 ### Skills and Tools:
 
