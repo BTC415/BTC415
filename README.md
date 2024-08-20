@@ -53,7 +53,10 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=BTC415&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
-    &nbsp; -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BTC415&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+  <a href="https://github.com/BTC415?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BTC415&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@BTC415's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/BTC415?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=BTC415&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@BTC415's github-readme-streak-stats"/>
+  </a>
 </p>
