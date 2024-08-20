@@ -24,7 +24,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
 #### Blockchain Development
-👍 Cryptocurrency Wallets
+👍 Cryptocurrency Wallets <br>
 👍 Non-Custodial Wallets
 👍 NFT Minting Engines
 👍 Smart Contracts
