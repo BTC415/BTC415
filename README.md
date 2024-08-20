@@ -53,7 +53,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BTC415&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
-    &nbsp;
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=BTC415&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
+    &nbsp; -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BTC415&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
