@@ -16,7 +16,6 @@ Are you looking for an honest and superior senior full stack developer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
 </p>
 
-
 #### Website Development
 - <b>Front-end</b> :  React.js | Next.js | Gatsby.js | Redux | TailwindCSS | Bootstrap | MUI
 - <b>Back-end</b> : Node.js | Express.js | Nest.js | Laravel 
