@@ -8,7 +8,7 @@
 
 ## Epic Fullstack Web & Blockchain Developer
 
--@- Dream is yours, Implement is mine. -@-
+-@- Your behavior, not your idea will change the world. -@-
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
 10+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
@@ -23,6 +23,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | IPFS
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Supabase and so on
+  
 #### Blockchain Development
 👍 Web3 Integration <br>
 👍 Cryptocurrency Wallets <br>
