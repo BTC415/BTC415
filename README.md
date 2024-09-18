@@ -8,7 +8,7 @@
 
 ## Epic Fullstack Web & Blockchain Developer
 
--@- Your behavior, not your idea will change the world. -@-
+<h1> Your behavior, not your idea will change the world. </h1>
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
 10+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
