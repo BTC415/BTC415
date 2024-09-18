@@ -6,9 +6,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
+<h1 align="center"> Your behavior, not your idea will change the world. </h1>
+
 ## Epic Fullstack Web & Blockchain Developer
 
-<h1> Your behavior, not your idea will change the world. </h1>
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
 10+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
