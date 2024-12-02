@@ -1,12 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BTC415&label=Profile%20views&color=0e75b6&style=flat" alt="BTC415" /> </p>
-<p align="center">
+<!-- <p align="center">
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p>
+</p> -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+    <a href="https://app.daily.dev/marksantiago02"><img src="https://api.daily.dev/devcards/v2/ms7ca0kCo13hGskK3qKF6.png?type=default&r=ec6" width="356" alt="Mark Santiago's Dev Card"/></a>
 </p>
-
-<a href="https://app.daily.dev/marksantiago02"><img src="https://api.daily.dev/devcards/v2/ms7ca0kCo13hGskK3qKF6.png?type=default&r=ec6" width="356" alt="Mark Santiago's Dev Card"/></a>
 
 <h1 align="center"> Your behavior, not your idea will change the world. </h1>
 
@@ -55,6 +53,10 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+</p>
 
 <p align="center">
   <a href="https://github.com/BTC415?tab=repositories">
