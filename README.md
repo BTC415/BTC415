@@ -8,7 +8,7 @@
 
 <h1 align="center"> Your behavior, not your idea will change the world. </h1>
 
-## Epic Fullstack Web & Blockchain Developer
+## A critical and forward thinking fullstack developer && blockchain engineer
 
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
