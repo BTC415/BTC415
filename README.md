@@ -26,15 +26,12 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Supabase and so on
   
 #### Blockchain Development
-👍 Web3 Integration <br>
+👍 ERC20 Token Presale Smart Contract using Solidity <br>
+👍 ICO frontend integrated with Smart contract using ethers.js <br>
+👍 NFT marketplaces management Smart contract and Frontend <br>
 👍 Cryptocurrency Wallets <br>
-👍 Non-Custodial Wallets <br>
-👍 NFT Minting Engines <br>
-👍 Smart Contracts <br>
-👍 NFT Websites <br>
+👍 Solana Arbitrage/Sniper/Copy Trading Bot <br>
 👍 DeFi Solutions <br>
-👍 dApp Development <br>
-👍 NFT Marketplace Management <br>
 
 ### Skills and Tools:
 
